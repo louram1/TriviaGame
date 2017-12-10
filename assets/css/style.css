@@ -1,0 +1,18 @@
+#display {
+  font-family: monospace;
+  font-size: 80px;
+  color: green;
+
+  /* Typography */
+  text-align: center;
+
+  /* Visual */
+  background: black;
+}
+#wrapper {
+  /* Box-model */
+  width: 500px;
+
+  /* Positioning */
+  margin: 50px auto 0;
+}
